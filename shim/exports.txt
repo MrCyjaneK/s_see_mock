@@ -1,0 +1,14 @@
+_SPACESEE_mock_load
+_SPACESEE_mock_loadError
+_SPACESEE_mock_unload
+_SPACESEE_mock_isHeavy
+_SPACESEE_mock_assetCount
+_SPACESEE_mock_asset
+_SPACESEE_mock_version
+_SPACESEE_mock_extension
+_SPACESEE_mock_filetypes
+_SPACESEE_mock_maxInputSize
+_SPACESEE_mock_analyze
+_SPACESEE_mock_progress
+_SPACESEE_mock_progressString
+_SPACESEE_mock_free
